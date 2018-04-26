@@ -1,0 +1,2 @@
+sample	fq1	fq2
+Samp1	/path/to/R1.fastq	/path/to/R2.fastq

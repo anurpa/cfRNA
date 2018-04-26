@@ -1,0 +1,17 @@
+#path to samples files, in tab delimited format, with columns sample name, path to fq1 file, path to fq2 file
+samples:
+  /path/to/samples/file
+
+#path to tools
+star_tool:
+  /path/to/star/tool
+picard_tool:
+  /path/to/picard/tool
+
+#path to reference files
+genome:
+  /path/to/reference/genome
+refflat2:
+  /path/to/refflat/file
+star_index:
+  /path/to/star/index
